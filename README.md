@@ -1,5 +1,10 @@
+
+
 # Nected Workspace Landing Page
 This is a simple landing page template for Nected Workspace, designed to be visually appealing, user-friendly, and compatible with various screen sizes (desktop, tablet, and mobile).
+
+# Live Link of project
+https://nected-task.vercel.app/
 
 
 # Customization
