@@ -1,13 +1,6 @@
 # Nected Workspace Landing Page
 This is a simple landing page template for Nected Workspace, designed to be visually appealing, user-friendly, and compatible with various screen sizes (desktop, tablet, and mobile).
-## Project Structure
-Project-Folder
- .index.html
- .styles.css
- .images
-     .nected_logo (1).png
-     .youtube (1).png
-     .linkedin (1).png
+
 
 # Customization
 1.Replace placeholder content:
